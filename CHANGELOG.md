@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.3.1](https://github.com/defenseunicorns/lula/compare/v0.3.0...v0.3.1) (2024-06-10)
+
+
+### Bug Fixes
+
+* **commitlint:** pinned dependency issue by extracting into package(-… ([#454](https://github.com/defenseunicorns/lula/issues/454)) ([17ac8ca](https://github.com/defenseunicorns/lula/commit/17ac8ca76c081f2d385a8dca4bd35ced8cbbf70d))
+* **generate:** resolve parent flag options properly ([#442](https://github.com/defenseunicorns/lula/issues/442)) ([5850115](https://github.com/defenseunicorns/lula/commit/585011577ffcc9426a694296d631d29bc88b1f99))
+* **validate:** fix related observations when empty ([#448](https://github.com/defenseunicorns/lula/issues/448)) ([f6f6993](https://github.com/defenseunicorns/lula/commit/f6f699312b1dfaa1190292143a039c105f5d5293))
+
+
+### Miscellaneous
+
+* **actions:** fix code scanning alerts ([#446](https://github.com/defenseunicorns/lula/issues/446)) ([aa568c7](https://github.com/defenseunicorns/lula/commit/aa568c76f9667195a0f106a4762f3ff315dc1666))
+* **deps:** update dependency linkinator to v6.0.5 ([#458](https://github.com/defenseunicorns/lula/issues/458)) ([dfa1cbe](https://github.com/defenseunicorns/lula/commit/dfa1cbef30c40ccdba1b46915fd63aebc080f6e0))
+* **deps:** update dependency prettier to v3.3.1 ([#459](https://github.com/defenseunicorns/lula/issues/459)) ([c999b78](https://github.com/defenseunicorns/lula/commit/c999b78c945e73ea1c5e93d269341e7c2c953e17))
+* **deps:** update github/codeql-action action to v3.25.7 ([#452](https://github.com/defenseunicorns/lula/issues/452)) ([2583eea](https://github.com/defenseunicorns/lula/commit/2583eea6200f305c74ae214576188c424d39f749))
+* **deps:** update goreleaser/goreleaser-action action to v6 ([#464](https://github.com/defenseunicorns/lula/issues/464)) ([e74b9d5](https://github.com/defenseunicorns/lula/commit/e74b9d53add588a4ddb83138b04e4e9ca263dae6))
+* **deps:** update module github.com/kyverno/kyverno-json to v0.0.3 ([#453](https://github.com/defenseunicorns/lula/issues/453)) ([1dc96e8](https://github.com/defenseunicorns/lula/commit/1dc96e832aa29a1d126a2b4f4d620aa006c8fec1))
+* **deps:** update module github.com/open-policy-agent/opa to v0.65.0 ([#451](https://github.com/defenseunicorns/lula/issues/451)) ([7867a3c](https://github.com/defenseunicorns/lula/commit/7867a3c36826eaa264106434f993f37597ffd8e7))
+
 ## [0.3.0](https://github.com/defenseunicorns/lula/compare/v0.2.1...v0.3.0) (2024-05-24)
 
 
