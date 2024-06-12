@@ -11,8 +11,8 @@ This can be well established and regulated standards such as NIST 800-53. It can
 
 ## Why this approach vs a policy engine?
 
-- Lula is not meant to compete with policy engines - rather augments the auditing and alerting process
-- Often admission control processes have a difficult time establishing `big picture` global context control satisfaction
+- Lula is not meant to compete with policy engines - rather, it augments the auditing and alerting process
+- Often, admission control processes have a difficult time establishing `big picture` global context control satisfaction
 - Lula is meant to allow modularity and inheritance of controls based upon the components of the system you build
 
 ## How does it work?
