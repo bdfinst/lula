@@ -17,7 +17,7 @@ This can be well established and regulated standards such as NIST 800-53. It can
 
 ## How does it work?
 
-Under the hood, Lula has two primary capabilities; Provider and Domains.
+Under the hood, Lula has two primary capabilities: Provider and Domains.
 
 - A Domain is an identifier for where to collect data to be validated
 - A Provider is the "engine" performing the validation using policy and the data collected.
