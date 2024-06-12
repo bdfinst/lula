@@ -5,13 +5,13 @@
 
 Lula is a tool written to bridge the gap between expected configuration required for compliance and **_actual_** configuration.
 
-Cloud Native Infrastructure, Platforms, and applications can establish OSCAL documents that live beside source-of-truth code bases. Providing an inheritance model for when a control that the technology can satisfy _IS_ satisfied in a live-environment.
+Cloud-native infrastructure, Platforms, and applications can establish OSCAL documents that live beside source-of-truth code bases, providing an inheritance model for when a control that the technology can satisfy _IS_ satisfied in a live environment.
 
 This can be well established and regulated standards such as NIST 800-53. It can also be best practices, Enterprise Standards, or simply team development standards that need to be continuously monitored and validated.
 
 ## Why this approach vs a policy engine?
 
-- Lula is not meant to compete with policy engines - rather augment the auditing and alerting process
+- Lula is not meant to compete with policy engines - rather augments the auditing and alerting process
 - Often admission control processes have a difficult time establishing `big picture` global context control satisfaction
 - Lula is meant to allow modularity and inheritance of controls based upon the components of the system you build
 
